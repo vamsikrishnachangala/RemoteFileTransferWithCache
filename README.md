@@ -33,7 +33,7 @@ The main objective of this project is to create a **cache-enabled file transfer 
 
 Refer to the diagram below for a visual representation of the interactions between the client, cache, and server:
 
-![Architecture Diagram](path_to_diagram)
+![Architecture Diagram](fileexchangediagram.png)
 
 ## **Packet Capture and Performance Evaluation**
 
