@@ -43,7 +43,7 @@ The project includes performance testing using **Wireshark** to capture the pack
 - `file3.txt` (48KB)
 - `file4.txt` (62KB)
 
-The results are displayed in tabular form and highlight the differences between TCP and SNW in terms of delay and throughput.
+The results are displayed in tabular form and highlight the differences between TCP and SNW in terms of delay and throughput.(M denotes mega(10^6))
 
 | **File** | **Size**  | **TCP Delay(sec)** | **SNW Delay(sec)** | **TCP Throughput(bps)** | **SNW Throughput(bps)** |
 |----------|-----------|---------------|---------------|--------------------|--------------------|
